@@ -243,8 +243,6 @@ jiren = `
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 BOT NAME ➡️ Mana Gue Tau 😂 
 RUNING ON ➡️ Panel 🗿
-SILAHKAN PENCET BUTTON DIBAWAH ⬇️
-IG https://www.instagram.com/dickyy_heriyanto
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬    
 `
 let buttons = [      
