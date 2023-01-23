@@ -241,7 +241,7 @@ switch (command) {
 case 'menu': case 'Lynn':{
 jiren = ` 
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
-BOT NAME ➡️ Mana Gue Tau 😂 
+BOT NAME ➡️ Kamu nanya.... 
 RUNING ON ➡️ Panel 🗿
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬    
 `
@@ -327,7 +327,6 @@ jiren = `
 ┃ ➣ toanime ( send foto - reply )
 ┃ ➣ sticker ( send foto - reply )
 ┖━━━━━━━━━━━━━━━━━━━━
- sk-IG https://www.instagram.com/dickyy_heriyanto
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
     
 `
@@ -557,10 +556,10 @@ diablo.sendMessage(diablobotwhatsapp.chat, { image: { url: anu.thumb }, caption:
 diablo.sendMessage(diablobotwhatsapp.chat, { video: { url: anu.result }, mimetype: 'video/mp4', fileName: `${anu.title}.mp4` }, { quoted: diablobotwhatsapp })
 break
 case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6289699655396`)
+diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6281221076973`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6289699655396`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6281221076973`)
 break
 case 'masuk_ke': {
 if (!itsMediablo) return diablobotwhatsapp.reply(mess.owner)
