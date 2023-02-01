@@ -273,5 +273,5 @@ diabloBot()
 ///
 process.on('uncaughtException', console.error)
 ///
-//require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
 ///
